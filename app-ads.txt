@@ -1,9 +1,4 @@
 
-
-
-
-(updated 09/08/2023)
-
 #admob
 google.com, pub-3345124885896772, DIRECT, f08c47fec0942fa0
 google.com, pub-9819920607806935, DIRECT, f08c47fec0942fa0
